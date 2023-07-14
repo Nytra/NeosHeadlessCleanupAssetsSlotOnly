@@ -1,6 +1,6 @@
 # ModNameGoesHere
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that does x.
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) Headless Client that replaces the automatic world asset cleanup with a custom version that doesn't break some materials, textures and other stuff in the world.
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
