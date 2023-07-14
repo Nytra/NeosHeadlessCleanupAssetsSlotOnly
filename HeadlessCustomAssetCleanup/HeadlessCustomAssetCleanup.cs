@@ -27,6 +27,9 @@ namespace HeadlessCustomAssetCleanup
             }
         }
 
+        // A transpiler would be better here
+        // ... but I'm lazy
+
         [HarmonyPatch(typeof(WorldConfiguration), "InternalRunUpdate")]
         class HeadlessCustomAssetCleanupPatch
         {
